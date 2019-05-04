@@ -1,0 +1,16 @@
+html{
+  scroll-behavior: smooth;
+}
+header {
+  background-image: url("../Images/Shoe.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  padding-top: 25%;
+}
+.about{
+  
+}
