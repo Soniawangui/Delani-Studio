@@ -41,3 +41,9 @@ p{
 .design {
   margin-left: 15%;
 }
+.development {
+  margin-left: 10%;
+}
+.p{
+  display: none;
+}
