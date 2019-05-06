@@ -3,7 +3,7 @@
 #### By **Sonia Habamba**
 ## Description# Delani Studios
 #### Landing page for Delani Studios, 06/05/2019
-#### Author **Sonia Habamba**
+#### Author: **Sonia Habamba**
 ## Description
 This is a simple site where they tell you what they do and they show you some of their works. 
 ## Setup/Installation Requirements
@@ -14,7 +14,7 @@ I have not encountered any bug but if you come across some bugs feel free to wor
 I have used the following languages in modifying this website.HTML,CSS,JAVASCRIPT,JQUERY
 ## Support and contact details
 If you ran into an issue or have any questions feel free to contact me.
-@koisonia99@gmail.com
+koisonia99@gmail.com
 +254702572470
 ### License
 *MIT <2019> <Sonia Habamba>
