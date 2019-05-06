@@ -1,0 +1,33 @@
+$(document).ready(function(){
+  $(".design").click(function(){
+    $(".design").hide();
+    $(".design").toggle();
+    $(".design").show();
+  })
+  $(".design").click(function(){
+    $(".design").toggle();
+    $(".design").hide();
+    $(".design").show();
+  })
+  $(".development").click(function(){
+    $(".development").hide();
+    $(".development").toggle();
+    $(".development").show();
+  })
+  $(".development").click(function(){
+    $(".development").toggle();
+    $(".development").hide();
+    $(".development").show();
+  })
+  $(".product-management").click(function(){
+    $(".product-management").hide();
+    $(".product-management").toggle();
+    $(".product-management").show();
+  })
+  $(".product-management").click(function(){
+    $(".product-management").toggle();
+    $(".product-management").hide();
+    $(".product-management").show();
+  })
+
+  
