@@ -47,3 +47,14 @@ p{
 .p{
   display: none;
 }
+.row{
+align-items: center;
+flex-wrap: wrap;
+display: flex;
+}
+.contact{
+  background-image: url("../Images/c_image.jpg");
+  text-align: center;
+  background-size: cover;
+
+}
