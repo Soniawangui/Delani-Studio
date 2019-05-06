@@ -7,12 +7,7 @@
 ## Description
 This is a simple site where they tell you what they do and they show you some of their works. 
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?
+You'll need access to wifi connection,a smartphone,a tablet or a laptop.
 ## Known Bugs
 I have not encountered any bug but if you come across some bugs feel free to work on them. 
 ## Technologies Used
