@@ -3,7 +3,7 @@
 #### By **Sonia Habamba**
 ## Description# Delani Studios
 #### Landing page for Delani Studios, 06/05/2019
-#### By **Sonia Habamba**
+#### Author **Sonia Habamba**
 ## Description
 This is a simple site where they tell you what they do and they show you some of their works. 
 ## Setup/Installation Requirements
