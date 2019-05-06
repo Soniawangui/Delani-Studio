@@ -30,4 +30,3 @@ $(document).ready(function(){
     $(".product-management").show();
   })
 
-  

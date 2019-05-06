@@ -22,7 +22,7 @@ If you ran into an issue or have any questions feel free to contact me.
 @koisonia99@gmail.com
 +254702572470
 ### License
-*Copyright <2019> <Sonia Habamba>
+*MIT <2019> <Sonia Habamba>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
