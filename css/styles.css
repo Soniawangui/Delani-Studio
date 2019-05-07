@@ -29,21 +29,17 @@ p{
   text-align: center;
   background-size: cover;
   height: 60vh;
-  width: 100%;
+  width: 110%;
   color: white;
+  
 }
 .services p{
-  margin: 70px;
+  margin:auto, 70px;
 }
-.services h2{
+.services h3{
   padding-top: 60px;
 }
-.desin p, .development p, .project p{
-  display: none;
-}
-.portfolio{
-  text-align: center;
-}
+
 .p{
   display: none;
 }
@@ -51,6 +47,15 @@ p{
 align-items: center;
 flex-wrap: wrap;
 display: flex;
+}
+.portfolio{
+  text-align: center;
+  
+}
+.portfolio img{
+  padding: 20px;
+  padding-bottom: 20px;
+
 }
 .contacts{
   text-align: center;
@@ -66,4 +71,7 @@ display: flex;
  
 footer{
   text-align: center;
- 
+}
+#what-we-do {
+  text-align: center;
+}
