@@ -38,11 +38,11 @@ p{
 .services h2{
   padding-top: 60px;
 }
-.design {
-  margin-left: 15%;
+.desin p, .development p, .project p{
+  display: none;
 }
-.development {
-  margin-left: 10%;
+.portfolio{
+  text-align: center;
 }
 .p{
   display: none;
@@ -51,6 +51,17 @@ p{
 align-items: center;
 flex-wrap: wrap;
 display: flex;
+}
+.contacts{
+  text-align: center;
+  background-image: url("../Images/c_image.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 50vh;
+  color: white;
+  padding-top: 10%;
 }
  
 footer{
