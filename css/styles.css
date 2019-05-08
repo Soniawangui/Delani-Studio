@@ -68,12 +68,6 @@ display: flex;
   color: white;
   padding-top: 10%;
 }
-input{
-  background-color: transparent;
-}
-textarea{
-  background-color: transparent;
-}
  
 footer{
   text-align: center;
@@ -84,4 +78,3 @@ footer{
 #name, #email, #message{
   background-color: transparent;
   color: white;
-}
