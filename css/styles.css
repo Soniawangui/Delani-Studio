@@ -72,22 +72,26 @@ display: flex;
 footer{
   text-align: center;
 }
-#what-we-do {
-  text-align: center;
-}
-.what-we-do img {
+ 
+.what-we-do {
   text-align: center;
   justify-content: center;
   margin-top: 10px;
 }
+.what-we-do p{
+  text-align: center;
+}
 .design{
-  text-align: left;
+  text-align: center;
+}
+.design p{
+
 }
 .development{
   text-align: center;
 }
 .product-management{
-  text-align: right;
+  text-align: center;
 }
 #name, #email, #message{
   background-color: transparent;
