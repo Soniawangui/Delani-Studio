@@ -75,6 +75,21 @@ footer{
 #what-we-do {
   text-align: center;
 }
+.what-we-do img {
+  text-align: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.design{
+  text-align: left;
+}
+.development{
+  text-align: center;
+}
+.product-management{
+  text-align: right;
+}
 #name, #email, #message{
   background-color: transparent;
   color: white;
+}

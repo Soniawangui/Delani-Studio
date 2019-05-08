@@ -12,6 +12,8 @@ You'll need access to wifi connection,a smartphone,a tablet or a laptop.
 I have not encountered any bug but if you come across some bugs feel free to work on them. 
 ## Technologies Used
 I have used the following languages in modifying this website.HTML,CSS,JAVASCRIPT,JQUERY
+#BDD
+
 ## Support and contact details
 If you ran into an issue or have any questions feel free to contact me.
 koisonia99@gmail.com
