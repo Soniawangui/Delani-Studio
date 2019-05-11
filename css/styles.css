@@ -29,12 +29,14 @@ p{
   text-align: center;
   background-size: cover;
   height: 60vh;
-  width: 100%;
+  width: 100vw;
   color: white;
   
 }
 .services p{
   margin:auto, 70px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .services h3{
   padding-top: 60px;
@@ -72,25 +74,29 @@ display: flex;
 footer{
   text-align: center;
 }
+ h3{
+  text-align: center;
+}
+.division{
+  width: 25%;
+}
  
 .what-we-do {
-  text-align: center;
-  justify-content: center;
+  display: flex;
+  justify-content: space-around;
   margin-top: 10px;
+  padding-left: 20px;
 }
-.design{
-  text-align: center;
-}
-.design p{
+
+.designp{
+  display: none;
 
 }
-.development{
-  text-align: center;
+.developmentp{
+  display: none;
+
 }
-.product-management{
-  text-align: center;
+.product-managementp{
+  display: none;
 }
-#name, #email, #message{
-  background-color: transparent;
-  color: white;
-}
+
