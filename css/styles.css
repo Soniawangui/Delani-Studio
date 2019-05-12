@@ -55,9 +55,10 @@ display: flex;
   
 }
 .portfolio img{
-  padding: 20px;
-  padding-bottom: 20px;
-
+  padding-top: 50px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 80px;
 }
 .contacts{
   text-align: center;
@@ -79,6 +80,8 @@ footer{
 }
 .division{
   width: 25%;
+  text-align: center;
+  margin: 20px;
 }
  
 .what-we-do {
@@ -99,4 +102,6 @@ footer{
 .product-managementp{
   display: none;
 }
-
+body{
+  justify-content: inherit;
+}
