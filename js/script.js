@@ -37,6 +37,6 @@ $(".product-managementp").click(function(){
 
 })
 $("img").hover(function (){
-  $(this).toggleClass('offwite');
+  $(this).toggleClass('blur');
 
 });
