@@ -36,9 +36,7 @@ $(".product-managementp").click(function(){
   $(".product-management").show();
 
 })
-$(".attempt").hover(function() {
-  $(this).animate({ opacity:"1"});
-},
-function () {
-  $(this).animate({opacity:"0"});
+$("img").hover(function (){
+  $(this).toggleClass('offwite');
+
 });
